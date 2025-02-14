@@ -21,13 +21,15 @@
 >
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.networknt</groupId>
+    <groupId>io.github.lscoughlin</groupId>
     <artifactId>json-schema-validator</artifactId>
     <version>1.5.6</version>
     <packaging>bundle</packaging>
     <name>JsonSchemaValidator</name>
-    <description>A json schema validator that supports draft v4, v6, v7, v2019-09 and v2020-12</description>
-    <url>https://github.com/networknt/json-schema-validator</url>
+    <description>A json schema validator fork that supports draft v4, v6, v7, v2019-09 and v2020-12
+        forked from https://github.com/networknt/json-schema-validator to scratch a very particular itch.
+    </description>
+    <url>https://github.com/lscoughlin/json-schema-validator</url>
 
     <licenses>
         <license>
